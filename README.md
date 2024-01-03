@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yang
 - 👀 I’m interested in to learn new thing.
-- 🌱 I’m currently working on to become a full stack developer.
-- 💞️ I’m looking to collaborate on a small team project.
+- 🌱 I’m a full stack developer.
+- 💞️ I’m looking to new opportunities.
 - 📫 How to reach me - please DM on my social medias @yangyangyyz
 
 <!---
